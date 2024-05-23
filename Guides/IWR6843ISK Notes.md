@@ -7,3 +7,5 @@ The jumpers for this board are the same as the dipswitches. Follow the chart on 
 If you have everything set up properly but UniFlash/mmWave Studio can't seem to connect to the board, you may have a driver issue - refer to page 59 for installation info.
 
 Make sure you only have one process using that card - remember to close the demo, for example.
+
+Remember to power cycle (turn off and on) the card between flashes.
